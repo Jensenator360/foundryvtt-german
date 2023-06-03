@@ -1,0 +1,11 @@
+#setup-configuration {
+    height: auto;
+}
+
+#context-menu {
+    width: max-content;
+}
+
+button.reset-all {
+    flex-basis: min-content;
+}
