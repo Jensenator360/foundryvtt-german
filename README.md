@@ -1,1 +1,0 @@
-My take on FoundryVTT (V11) german translation
