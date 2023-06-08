@@ -2263,5 +2263,13 @@
     "WORLD.Description": "Weltbeschreibung",
     "WORLD.JoinTheme": "Design der Beitrittsseite",
     "WORLD.JoinThemeDefault": "Standard",
-    "WORLD.JoinThemeMinimal": "Minimalistisch"
+    "WORLD.JoinThemeMinimal": "Minimalistisch",
+    "WELCOME.Title": "Willkommen bei Foundry Virtual Tabletop",
+    "WELCOME.Description": "Diese Tour bietet neuen Anwendern eine Anlaufstelle, um die Grundlagen von Foundry VTT zu erlernen.",
+    "WELCOME.WelcomeTitle": "Willkommen bei Foundry Virtual Tabletop",
+    "WELCOME.WelcomeContent": "Wir hoffen, dass unsere Software ein erstaunliches Werkzeug für Sie und Ihre Gruppe sein wird. Foundry Virtual Tabletop hat eine große Anzahl von Funktionen, die es zu erlernen gilt, aber es gibt Tutorials, Leitfäden und andere Ressourcen, die Ihnen helfen können, sich zurechtzufinden.\n Dies ist eine \"Tour\", die Ihnen hilft, die Grundfunktionen der Software kennenzulernen. Mit den Schaltflächen am unteren Rand dieses Fensters können Sie die Schritte der Tour vor- oder zurückspulen.",
+    "WELCOME.HelpTitle": "Verfügbare Ressourcen",
+    "WELCOME.HelpContent": "Du bist nicht allein beim Lernen von Foundry Virtual Tabletop. Es gibt eine Fülle von Ressourcen, die dir helfen können. Einige der besten Ressourcen sind unser offizielles <a href='https://foundryvtt.com/kb/' target='_blank'>Wissenszentrum</a> und das <a href='https://foundryvtt.wiki/' target='_blank'>Community-Wiki</a>. Du kannst auch unserem offiziellen <a href='https://discord.gg/FoundryVTT' target='_blank'>Discord-Server</a> beitreten, wo eine einladende Community bereit steht, um dich auf deiner Reise zu unterstützen!",
+    "WELCOME.ToursTitle": "Erste Schritte",
+    "WELCOME.ToursContent": "Wenn Sie ein neuer Benutzer sind, empfehlen wir Ihnen, sich 10 Minuten Zeit zu nehmen, um die verfügbaren Touren durchzugehen. Diese helfen Ihnen dabei, sich zurechtzufinden. Sie können Ihren Fortschritt durch die verfügbaren Touren anzeigen und Touren, die Sie bereits abgeschlossen haben, wiederholen, indem Sie auf die Schaltfläche \"Tour-Verwaltung\" im Einstellungen-Seitenleistentab klicken."
 }
