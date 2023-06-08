@@ -1269,7 +1269,7 @@
   "SETTINGS.LangL": "Die angezeigte Sprache für Foundry Virtual Tabletop ändern.",
   "SETTINGS.LClickReleaseN": "Linksklick zum Loslassen von Objekten",
   "SETTINGS.LClickReleaseL": "Wenn aktiviert, wird ein Linksklick auf einen leeren Spielflächebereich alle derzeit gesteuerten Objekte loslassen. Wenn deaktiviert, werden Objekte losgelassen, indem ein leerer Bereich ausgewählt, das Objekt mit Umschaltklick ausgewählt oder die Esc-Taste gedrückt wird.",
-  "SETTINGS.NoCanvasN": "Spiel-Spielfläche deaktivieren",
+  "SETTINGS.NoCanvasN": "Spielfläche deaktivieren",
   "SETTINGS.NoCanvasL": "Die Spielfläche, die eine visuelle Darstellung des virtuellen Spieltischs bietet, kann deaktiviert werden. Dies ermöglicht es, dass weniger leistungsfähige Geräte einen Teil der Softwarefunktionen nutzen können.",
   "SETTINGS.CBubN": "Chat-Bubbles aktivieren",
   "SETTINGS.CBubL": "Konfigurieren, ob Chat-Bubbles über den Tokens für In-Character- und Emote-Chatnachrichten angezeigt werden sollen.",
